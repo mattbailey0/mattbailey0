@@ -1,0 +1,19 @@
+{
+    "events": [
+        {
+            "name": "Born",
+            "desc": "It was messy but worth it",
+            "date": "09/13/1981"
+        },
+        {
+            "name": "Joined CFPB",
+            "desc": "An exciting new life opportunity",
+            "date": "01/15/2013"
+        },
+        {
+            "name": "WDQI/SDLS Panel",
+            "desc": "I talked and later I stopped talking so much.",
+            "date": "2015-03-12"
+        }
+    ]
+}
